@@ -117,6 +117,10 @@ Full Faith and Credit shall be given in the Cardano Community which shall consis
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
 
+## Article IV: Supremacy
+
+
+
 ## TO ADD Later 1
 
 The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
@@ -125,3 +129,11 @@ The enumeration in the Constitution of certain rights should not be interpreted 
 
 No person shall, at any time, through the Governance protocol or a hard-fork, take control or block, without the consent of the owner, the assets thereof,
 but in a manner that will be prescribed by the law of the owner's country which shall not modify the Cardano blockchain protocol in any way.
+
+> **Note**
+>
+> 1. A **Natural Person** is a person, in legal meaning, that is one who has its own legal personality, and that is an individual human being.
+> 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans.
+> 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
+>    government agency, non-governmental organisation, or international organization (such as the United Nations). 
+
