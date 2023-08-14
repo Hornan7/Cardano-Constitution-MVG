@@ -119,7 +119,9 @@ and the enaction thereof.
 
 ## Article IV: Supremacy
 
-
+This Constitution, and the laws of the Cardano Blockchain which shall be made in Pursuance thereof; and all ratification made, or which shall be made, under
+the Authority of the Governance Bodies, shall be the supreme Law of the Cardano Blockchain; and every ADA holders shall be bound thereby, any Thing in the 
+Constitution or Rules of the protocol to the Contrary notwithstanding. (**TO BE IMPROVED**)
 
 ## TO ADD Later 1
 
