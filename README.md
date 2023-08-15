@@ -10,9 +10,6 @@ Discussions:
     - <https://discord.com/channels/826816523368005654/1128361520514994178>
     - <https://discord.com/channels/826816523368005654/915340581411106916>
     - <https://github.com/Hornan7/Cardano-Constitution-Draft/issues>
-Sources:
-    - Analysis of the Legal subject status of AI <https://www.scirp.org/journal/paperinformation.aspx?paperid=122946>
-    - The Legal Personhood of Artificial Intelligences <https://academic.oup.com/book/35026/chapter/298856312>
 Created: 2023-07-29
 License: CC-BY-4.0
 ---
@@ -107,7 +104,11 @@ of the Cardano blockchain.
 
 The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless)
 
-### Section 2: One ADA one Vote
+### Section 2: The Protocol Parameters State
+
+
+
+
 
 ## Article III: The Community Branch
 
@@ -116,6 +117,13 @@ The Cardano Protocol Control shall be vested in the governance protocol (**TODO*
 Full Faith and Credit shall be given in the Cardano Community which shall consist of every ADA Holders of the Cardano Blockchain able to submit Governance Actions or delegate
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
+
+### Section 2: One ADA one Vote
+
+
+
+
+
 
 ## Article IV: Blockchain State, Supremacy, Affirmation, Religious Tests
 
