@@ -117,11 +117,17 @@ Full Faith and Credit shall be given in the Cardano Community which shall consis
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
 
-## Article IV: Supremacy
+## Article IV: Blockchain State, Supremacy, Affirmation, Religious Tests
+
+All Node Versions and Protocol Parameter's State, before the Adoption of this Constitution, shall be as valid against the Cardano Blockchain under this 
+Constitution, as under the former governance mechanism design.
 
 This Constitution, and the laws of the Cardano Blockchain which shall be made in Pursuance thereof; and all ratification made, or which shall be made, under
-the Authority of the Governance Bodies, shall be the supreme Law of the Cardano Blockchain; and every ADA holders shall be bound thereby, any Thing in the 
-Constitution or Rules of the protocol to the Contrary notwithstanding. (**TO BE IMPROVED**)
+the Authority of the Governance Bodies, shall be the supreme Law of the Cardano Blockchain; and the Constitution Committee members from any country shall be
+bound thereby, any Thing in the Constitution or Laws of the Cardano Blockchain to the Contrary notwithstanding. (**Need Contributors Approval**)
+
+The Constitutional Committee members before mentioned, shall be bound by Affirmation, to support this Constitution; but no religious Test shall ever be
+required as a Qualification to any of the Governance Roles or Community Trust under the Cardano Blockchain.
 
 ## TO ADD Later 1
 
@@ -135,7 +141,7 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > **Note**
 >
 > 1. A **Natural Person** is a person, in legal meaning, that is one who has its own legal personality, and that is an individual human being.
-> 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans.
+> 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
 >    government agency, non-governmental organisation, or international organization (such as the United Nations). 
 
