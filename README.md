@@ -98,17 +98,17 @@ The Stake Pool Operators shall have the power to choose which version of the nod
 "Hard-Fork Initiation" Governance action's vote. However, they shall make their choice based on what is best for the proper functioning
 of the Cardano blockchain.
 
+### Section 7:
+
 ## Article II: The Protocol Branch
 
 ### Section 1: The Cardano Protocol
 
-The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless)
+The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
 
 ### Section 2: The Protocol Parameters State
 
-
-
-
+(**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
 ## Article III: The Community Branch
 
@@ -120,13 +120,15 @@ and the enaction thereof.
 
 ### Section 2: One ADA one Vote
 
+(**TODO** Description and justification of this Community rule)
+
 ## Article IV: Amendment Process
 
 The Cardano Community, whenever two thirds of the governance Bodies shall deem it necessary by the governance votes, shall propose Amendments to this Constitution, which, 
 in Case of ratification, shall be valid to all Intents and Purposes, as Part of this Constitution, when enacted by the Governance Mechanism of the Cardano Blockchain, 
 or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork initiation") governance action; Provided that no Amendments which may be made after the 
 enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
-without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism.
+without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
 
 ## Article V: Blockchain State, Supremacy, Affirmation, Religious Tests
 
@@ -155,5 +157,5 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
 >    government agency, non-governmental organisation, or international organization (such as the United Nations).
-> 4. The **Governance Mechanism** refers au regle de gouvernance du CIP-1694 incluant le governance bodies, les governance actions, leur ratifications et leur enactments.
+> 4. The **Governance Mechanism** refers to the CIP-1694 governance rule including governance bodies, governance actions, their ratifications and enactments.
 
