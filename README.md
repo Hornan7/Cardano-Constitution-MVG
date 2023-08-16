@@ -120,12 +120,15 @@ and the enaction thereof.
 
 ### Section 2: One ADA one Vote
 
+## Article IV: Amendment Process
 
+The Cardano Community, whenever two thirds of the governance Bodies shall deem it necessary by the governance votes, shall propose Amendments to this Constitution, which, 
+in Case of ratification, shall be valid to all Intents and Purposes, as Part of this Constitution, when enacted by the Governance Mechanism of the Cardano Blockchain, 
+or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork initiation") governance action; Provided that no Amendments which may be made after the 
+enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
+without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism.
 
-
-
-
-## Article IV: Blockchain State, Supremacy, Affirmation, Religious Tests
+## Article V: Blockchain State, Supremacy, Affirmation, Religious Tests
 
 All Node Versions and Protocol Parameter's State, before the Adoption of this Constitution, shall be as valid against the Cardano Blockchain under this 
 Constitution, as under the former governance mechanism design.
@@ -151,5 +154,6 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > 1. A **Natural Person** is a person, in legal meaning, that is one who has its own legal personality, and that is an individual human being.
 > 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
->    government agency, non-governmental organisation, or international organization (such as the United Nations). 
+>    government agency, non-governmental organisation, or international organization (such as the United Nations).
+> 4. The **Governance Mechanism** refers au regle de gouvernance du CIP-1694 incluant le governance bodies, les governance actions, leur ratifications et leur enactments.
 
