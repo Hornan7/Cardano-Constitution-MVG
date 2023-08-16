@@ -98,7 +98,9 @@ The Stake Pool Operators shall have the power to choose which version of the nod
 "Hard-Fork Initiation" Governance action's vote. However, they shall make their choice based on what is best for the proper functioning
 of the Cardano blockchain.
 
-### Section 7:
+### Section 7: Disabilities of Constitutional Committee Members
+
+(**TODO** Political power and don't forget to include conflict of interest)
 
 ## Article II: The Protocol Branch
 
