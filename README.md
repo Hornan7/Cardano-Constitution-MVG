@@ -141,6 +141,8 @@ and the enaction thereof.
 10. Everyone has the right to information, to the extent provided by law.
 11. The rights and freedoms set out in this Charter are also guaranteed to women and men.
 12. Human rights and freedoms are exercised with respect for democratic values
+13. Everyone has the right to freedom of inquiry, opinion, expression and dissemination of opinion by any means.
+14. 
 
 ## Article IV: Amendment Process
 
