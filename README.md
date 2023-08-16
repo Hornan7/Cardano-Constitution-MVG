@@ -127,7 +127,7 @@ and the enaction thereof.
 
 (**TODO** Description and justification of this Community rule)
 
-### Section 3: Charter of Human Rights and Freedoms
+### Section 3: Community Bill of Rights
 
  1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression, freedom of peaceful assembly and freedom of association.
  2. Everyone has the right to safeguard his dignity, honour and reputation.
