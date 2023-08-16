@@ -139,7 +139,7 @@ and the enaction thereof.
  8. No person may, by discrimination, refuse to enter into a legal act concerning goods or services ordinarily offered to the public.
  9. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
 10. Everyone has the right to information, to the extent provided by law.
-11.The rights and freedoms set out in this Charter are also guaranteed to women and men.
+11. The rights and freedoms set out in this Charter are also guaranteed to women and men.
 12. Human rights and freedoms are exercised with respect for democratic values
 
 ## Article IV: Amendment Process
