@@ -127,6 +127,21 @@ and the enaction thereof.
 
 (**TODO** Description and justification of this Community rule)
 
+### Section 3: Charter of Human Rights and Freedoms
+
+ 1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression, freedom of peaceful assembly and freedom of association.
+ 2. Everyone has the right to safeguard his dignity, honour and reputation.
+ 3. Everyone has the right to privacy.
+ 4. Human rights and freedoms are exercised with respect for democratic values.
+ 5. Every person has the right to the recognition and exercise, in full equality, of the rights and freedoms of the person, without distinction, exclusion or preference based on race, colour, sex, gender identity or expression, pregnancy, sexual orientation, civil status, age except to the extent provided for by law, religion, political beliefs, language, ethnic or national origin, social condition, disability or the use of a means to compensate for that disability.Discrimination occurs when such a distinction, exclusion or preference has the effect of destroying or compromising that right.
+ 6. No person shall harass a person on one of the grounds referred to in Article 5.
+ 7. No person may disseminate, publish or display in public a notice, symbol or sign involving discrimination or give authorization to that effect.
+ 8. No person may, by discrimination, refuse to enter into a legal act concerning goods or services ordinarily offered to the public.
+ 9. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
+10. Everyone has the right to information, to the extent provided by law.
+11.The rights and freedoms set out in this Charter are also guaranteed to women and men.
+12. Human rights and freedoms are exercised with respect for democratic values
+
 ## Article IV: Amendment Process
 
 The Cardano Community, whenever two thirds of the governance Bodies shall deem it necessary by the governance votes, shall propose Amendments to this Constitution, which, 
