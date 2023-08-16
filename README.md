@@ -108,7 +108,10 @@ of the Cardano blockchain.
 
 The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
 
-### Section 2: The Protocol Parameters State
+### Section 2: The Governance Mechanism
+
+
+### Section 3: The Protocol Parameters State
 
 (**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
