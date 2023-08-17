@@ -158,6 +158,7 @@ but in a manner that will be prescribed by the law of the owner's country which 
 
 > **Note**
 >
+> In this Constitution, unless the context indicates otherwise, the following terms mean:
 > 1. A **Natural Person** is a person, in legal meaning, that is one who has its own legal personality, and that is an individual human being.
 > 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
