@@ -10,9 +10,6 @@ Discussions:
     - <https://discord.com/channels/826816523368005654/1128361520514994178>
     - <https://discord.com/channels/826816523368005654/915340581411106916>
     - <https://github.com/Hornan7/Cardano-Constitution-Draft/issues>
-Sources:
-    - Analysis of the Legal subject status of AI <https://www.scirp.org/journal/paperinformation.aspx?paperid=122946>
-    - The Legal Personhood of Artificial Intelligences <https://academic.oup.com/book/35026/chapter/298856312>
 Created: 2023-07-29
 License: CC-BY-4.0
 ---
@@ -101,13 +98,22 @@ The Stake Pool Operators shall have the power to choose which version of the nod
 "Hard-Fork Initiation" Governance action's vote. However, they shall make their choice based on what is best for the proper functioning
 of the Cardano blockchain.
 
+### Section 7: Disabilities of Constitutional Committee Members
+
+(**TODO** Political power and don't forget to include conflict of interest)
+
 ## Article II: The Protocol Branch
 
 ### Section 1: The Cardano Protocol
 
-The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless)
+The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
 
-### Section 2: One ADA one Vote
+### Section 2: The Governance Mechanism
+
+
+### Section 3: The Protocol Parameters State
+
+(**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
 ## Article III: The Community Branch
 
@@ -117,11 +123,29 @@ Full Faith and Credit shall be given in the Cardano Community which shall consis
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
 
-## Article IV: Supremacy
+### Section 2: One ADA one Vote
+
+(**TODO** Description and justification of this Community rule)
+
+## Article IV: Amendment Process
+
+The Cardano Community, whenever two thirds of the governance Bodies shall deem it necessary by the governance votes, shall propose Amendments to this Constitution, which, 
+in Case of ratification, shall be valid to all Intents and Purposes, as Part of this Constitution, when enacted by the Governance Mechanism of the Cardano Blockchain, 
+or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork initiation") governance action; Provided that no Amendments which may be made after the 
+enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
+without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
+
+## Article V: Blockchain State, Supremacy, Affirmation, Religious Tests
+
+All Node Versions and Protocol Parameter's State, before the Adoption of this Constitution, shall be as valid against the Cardano Blockchain under this 
+Constitution, as under the former governance mechanism design.
 
 This Constitution, and the laws of the Cardano Blockchain which shall be made in Pursuance thereof; and all ratification made, or which shall be made, under
-the Authority of the Governance Bodies, shall be the supreme Law of the Cardano Blockchain; and every ADA holders shall be bound thereby, any Thing in the 
-Constitution or Rules of the protocol to the Contrary notwithstanding. (**TO BE IMPROVED**)
+the Authority of the Governance Bodies, shall be the supreme Law of the Cardano Blockchain; and the Constitution Committee members from any country shall be
+bound thereby, any Thing in the Constitution or Laws of the Cardano Blockchain to the Contrary notwithstanding. (**Need Contributors Approval**)
+
+The Constitutional Committee members before mentioned, shall be bound by Affirmation, to support this Constitution; but no religious Test shall ever be
+required as a Qualification to any of the Governance Roles or Community Trust under the Cardano Blockchain.
 
 ## TO ADD Later 1
 
@@ -134,8 +158,10 @@ but in a manner that will be prescribed by the law of the owner's country which 
 
 > **Note**
 >
+> In this Constitution, unless the context indicates otherwise, the following terms mean:
 > 1. A **Natural Person** is a person, in legal meaning, that is one who has its own legal personality, and that is an individual human being.
-> 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans.
+> 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
->    government agency, non-governmental organisation, or international organization (such as the United Nations). 
+>    government agency, non-governmental organisation, or international organization (such as the United Nations).
+> 4. The **Governance Mechanism** refers to the CIP-1694 governance rule including governance bodies, governance actions, their ratifications and enactments.
 
