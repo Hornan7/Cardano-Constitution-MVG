@@ -131,7 +131,6 @@ and the enaction thereof.
 
  1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression, freedom of peaceful assembly and freedom of association.
  2. Everyone has the right to privacy of their wallet, and no Cardano protocol shall require its owner to provide identity information when creating key pairs or an address from a verification key. However, any Centralized entity, or Decentralized Autonomus Organization using the Cardano blockchain functionalities may require identity information for the use of their services.
- 4. Human rights and freedoms are exercised with respect for democratic values.
  5. Every person has the right to the recognition and exercise, in full equality, of their right to vote and to submit governance actions, without distinction, exclusion or preference based on race, colour, sex, gender identity or expression, pregnancy, sexual orientation, civil status, age except to the extent provided for by law, religion, political beliefs, language, ethnic or national origin, social condition, disability or the use of a means to compensate for that disability.Discrimination occurs when such a distinction, exclusion or preference has the effect of destroying or compromising that right.
  7. No person may disseminate, publish or display in public a notice, symbol or sign involving discrimination or give authorization to that effect.
  9. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
