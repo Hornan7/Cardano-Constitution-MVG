@@ -124,7 +124,8 @@ Full Faith and Credit shall be given in the Cardano Community which shall consis
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
 
-## Article III: The ADA Holders Rights
+## Article III: The Community Rights
+
 1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression and freedom of association. And no Cardano Blockchain Protocol or Governance Mechanisms will prevail over them of these rights.
 2. Everyone has the right to privacy of their wallet, and no Cardano protocol shall require its owner to provide identity information when creating key pairs or an address from a verification key. However, any Centralized entity, or Decentralized Autonomus Organization using the Cardano blockchain functionalities may require identity information for the use of their services.
 3. Every person has the right to the recognition and exercise, in full equality, of their right to vote and to submit governance actions, without distinction, exclusion or preference based on race, colour, sex, gender identity or expression, pregnancy, sexual orientation, civil status, age except to the extent provided for by law, religion, political beliefs, language, ethnic or national origin, social condition, disability or the use of a means to compensate for that disability.Discrimination occurs when such a distinction, exclusion or preference has the effect of destroying or compromising that right.
