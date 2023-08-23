@@ -135,7 +135,6 @@ and the enaction thereof.
  5. Every person has the right to the recognition and exercise, in full equality, of the rights and freedoms of the person, without distinction, exclusion or preference based on race, colour, sex, gender identity or expression, pregnancy, sexual orientation, civil status, age except to the extent provided for by law, religion, political beliefs, language, ethnic or national origin, social condition, disability or the use of a means to compensate for that disability.Discrimination occurs when such a distinction, exclusion or preference has the effect of destroying or compromising that right.
  6. No person shall harass a person on one of the grounds referred to in Article 5.
  7. No person may disseminate, publish or display in public a notice, symbol or sign involving discrimination or give authorization to that effect.
- 8. No person may, by discrimination, refuse to enter into a legal act concerning goods or services ordinarily offered to the public.
  9. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
 10. Everyone has the right to information, to the extent provided by law.
 11. The rights and freedoms set out in this Charter are also guaranteed to women and men.
