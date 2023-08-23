@@ -102,17 +102,26 @@ of the Cardano blockchain.
 
 (**TODO** Political power and don't forget to include conflict of interest)
 
-## Article II: The Protocol Branch
+## Article II: The Governance Mechanism Branch
 
-### Section 1: The Cardano Protocol
+### Section 1: The Governance Mechanism
 
-The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
+The Cardano Governance Mechanism Control shall be vested in Every ADA Holders who holds a stake in the Cardano network and they are entitled
+and incentivized to vote on proposals to develop or upgrade the blockchain and its ecosystem.
 
 ### Section 2: One ADA one Vote
 
-(**TODO** Description and justification of this Community rule)
+(**TODO** Description and justification of this Community rule)**ALEX**
 
-### Section 3: The Protocol Parameters State
+### Section 3: The Constitutional Committee State
+
+(**TODO ALEX**)
+
+### Section 4: The Governance Actions
+
+(**TODO ALEX**)
+
+### Section 5: The Protocol Parameters
 
 (**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
