@@ -116,7 +116,13 @@ The Cardano Protocol Control shall be vested in the governance protocol (**TODO*
 
 (**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
-## Article III: The Community Rights
+## Article III: The Community Branch
+
+### Section 1: The Cardano Community
+
+Full Faith and Credit shall be given in the Cardano Community which shall consist of every ADA Holders of the Cardano Blockchain able to submit Governance Actions or delegate their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified and the enaction thereof.
+
+### Section 2: The Community Rights
 
 1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression and freedom of association. And no Cardano Blockchain Protocol or Governance Mechanisms will prevail over them of these rights.
 2. Everyone has the right to privacy of their wallet, and no Cardano protocol shall require its owner to provide identity information when creating key pairs or an address from a verification key. However, any Centralized entity, or Decentralized Autonomus Organization using the Cardano blockchain functionalities may require identity information for the use of their services.
