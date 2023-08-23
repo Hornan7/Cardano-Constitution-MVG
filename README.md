@@ -102,14 +102,15 @@ of the Cardano blockchain.
 
 (**TODO** Political power and don't forget to include conflict of interest)
 
-## Article II: The Protocol Branch
+## Article II: The Governance Mechanism
 
-### Section 1: The Cardano Protocol
+### Section 1: The Governance Protocol
 
-The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
+The Governance Protocol Control shall be vested...... (**TODO** trustless description)
 
-### Section 2: The Governance Mechanism
+### Section 2: One ADA one Vote
 
+(**TODO** Description and justification of this Community rule)
 
 ### Section 3: The Protocol Parameters State
 
@@ -122,10 +123,6 @@ The Cardano Protocol Control shall be vested in the governance protocol (**TODO*
 Full Faith and Credit shall be given in the Cardano Community which shall consist of every ADA Holders of the Cardano Blockchain able to submit Governance Actions or delegate
 their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
 and the enaction thereof.
-
-### Section 2: One ADA one Vote
-
-(**TODO** Description and justification of this Community rule)
 
 ## Article III: The ADA Holders Rights
 1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression and freedom of association. And no Cardano Blockchain Protocol or Governance Mechanisms will prevail over them of these rights.
