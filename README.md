@@ -108,8 +108,9 @@ of the Cardano blockchain.
 
 The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
 
-### Section 2: The Governance Mechanism
+### Section 2: One ADA one Vote
 
+(**TODO** Description and justification of this Community rule)
 
 ### Section 3: The Protocol Parameters State
 
@@ -119,13 +120,16 @@ The Cardano Protocol Control shall be vested in the governance protocol (**TODO*
 
 ### Section 1: The Cardano Community
 
-Full Faith and Credit shall be given in the Cardano Community which shall consist of every ADA Holders of the Cardano Blockchain able to submit Governance Actions or delegate
-their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified
-and the enaction thereof.
+Full Faith and Credit shall be given in the Cardano Community which shall consist of every ADA Holders of the Cardano Blockchain able to submit Governance Actions or delegate their voting power to a Delegated Representative. And the Governance Bodies may by general votes prescribe if such governance actions shall be ratified and the enaction thereof.
 
-### Section 2: One ADA one Vote
+### Section 2: The Community Rights
 
-(**TODO** Description and justification of this Community rule)
+1. Every person is entitled to fundamental freedoms such as freedom of conscience, freedom of religion, freedom of opinion, freedom of expression and freedom of association. And no Cardano Blockchain Protocol or Governance Mechanisms will prevail over them of these rights.
+2. Everyone has the right to privacy of their wallet, and no Cardano protocol shall require its owner to provide identity information when creating key pairs or an address from a verification key. However, any Centralized entity, or Decentralized Autonomus Organization using the Cardano blockchain functionalities may require identity information for the use of their services.
+3. Every person has the right to the recognition and exercise, in full equality, of their right to vote and to submit governance actions, without distinction, exclusion or preference based on race, colour, sex, gender identity or expression, pregnancy, sexual orientation, civil status, age except to the extent provided for by law, religion, political beliefs, language, ethnic or national origin, social condition, disability or the use of a means to compensate for that disability.Discrimination occurs when such a distinction, exclusion or preference has the effect of destroying or compromising that right.
+4. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
+5. Everyone has the right to information, to the extent provided by the Constitution and the Cardano Blockchain must remain public and open-source.
+6. Community rights and freedoms are exercised with respect for democratic values.
 
 ## Article IV: Amendment Process
 
