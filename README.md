@@ -176,5 +176,6 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > 2. An **Artificial Intelligence** refers to a human-built entity that can act in ways characteristic of intelligent beings, especially humans. <https://academic.oup.com/book/35026/chapter/298856312>
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
 >    government agency, non-governmental organisation, or international organization (such as the United Nations).
-> 4. The **Governance Mechanism** refers to the CIP-1694 governance rule including governance bodies, governance actions, their ratifications and enactments.
+> 4. The **Governance Mechanism**  refers to the mechanisms through which a system makes decisions. In Cardano, every token holder holds a stake in the network, and is entitled
+     and incentivized to vote on proposals to develop or upgrade the blockchain and ecosystem.
 
