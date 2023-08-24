@@ -20,6 +20,8 @@ License: CC-BY-4.0
 provide for the common defence of the Network, and promote its proper Functioning for ourselves and our Posterity, do ordain and establish
 this Constitution for the Cardano Blockchain of the World.
 
+> Appreciate the attempt at poetry here but not sure that harkening to the US Consitution is the right play to open this up. - Adam
+
 ## Article I: The Governance Branch
 
 ### Section 1: Governance Bodies
@@ -37,11 +39,17 @@ Immediately after they shall be assembled at least once in every Year in Consequ
 treat each others as equally as may be during every meetings. Such Meeting location shall be determined unanimously by its members. No Constitutional Committee members
 shall have their cold keys in their possession when attending to these meetings.
 
+> Immediately after... what? Is this a requirement for an in-person meeting with unanimous attendance? How are travel and hosting arrangements paid for? - Adam
+
 No Person shall be a Constitutional Committee member who shall not have attained the age of majority according to the law and standard of their
 respective state and country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political
 power in any country of the world.
 
 No Constitutional Committee member shall be anything other than a natural person.
+
+> How do we foresee accomplishing these requirements? Must anyone applying to be part of the Constituional Committee need to completely and publicly dox to the entire community? - Adam
+>
+> How do we imagine confirming that someone has been an ADA holder for 1 Year+? Must they sign and/or submit their nomination from a wallet that has an on-chain history >= 1 Year? - Adam
 
 No Committee member shall, under any circumstances, share their cold keys with anyone, and no person shall vote on their behalf
 at any time while serving as a member of the Constitutional Committee.
@@ -78,6 +86,8 @@ unintended consequences in combination with other actions.
 The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
 No Constitutional Committee members shall have their cold keys in their possession when attending to these meetings.
 
+> This paragraph is repeated from the Constitutional Committee section above and does not directly relate to the elections process itself so should be stricken IMO. - Adam
+
 ### Section 6: Power and Duty of the Governance Bodies
 
 The Cardano Governance Bodies shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or
@@ -103,6 +113,8 @@ of the Cardano blockchain.
 (**TODO** Political power and don't forget to include conflict of interest)
 
 ## Article II: The Protocol Branch
+
+> Not sure if this is so much a "branch" of the governance so much as what is actually being governed. I would view the "branches" as: CC, dRep, SPO and they all have certain powers and responsibilities to the various parts of the protocol such as: parameters, community, etc - Adam
 
 ### Section 1: The Cardano Protocol
 
@@ -139,6 +151,8 @@ or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork
 enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
 without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
 
+> I don't believe that this can actually be set in stone in the language of the Constitution in this fashion as anyone, at any time, may submit a new Constitution Governance Action which may modify or completely change the constitution at any time regardless of the rest of the state of the network. - Adam 
+
 ## Article V: Blockchain State, Supremacy, Affirmation, Religious Tests
 
 All Node Versions and Protocol Parameter's State, before the Adoption of this Constitution, shall be as valid against the Cardano Blockchain under this 
@@ -168,4 +182,9 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
 >    government agency, non-governmental organisation, or international organization (such as the United Nations).
 > 4. The **Governance Mechanism** refers to the CIP-1694 governance rule including governance bodies, governance actions, their ratifications and enactments.
+
+> **Point of Order**
+>
+> I think that we should review the language used within this document with a mind to following [RFC2119](https://datatracker.ietf.org/doc/html/rfc2119)
+> to ensure that the language is clear and unambiguous in terms of things that must, must not, should, or should not be taken.
 
