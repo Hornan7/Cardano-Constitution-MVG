@@ -83,9 +83,6 @@ until the first epoch after their enactment to give the new constitutional commi
 proposals with respect to a new constitution, and ensures that the in principle arbitrary semantic changes caused by enacting a hard-fork do not have
 unintended consequences in combination with other actions.
 
-The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
-No Constitutional Committee members shall have their cold keys in their possession when attending to these meetings.
-
 > This paragraph is repeated from the Constitutional Committee section above and does not directly relate to the elections process itself so should be stricken IMO. - Adam
 
 ### Section 6: Power and Duty of the Governance Bodies
