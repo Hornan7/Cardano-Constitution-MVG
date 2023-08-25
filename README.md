@@ -6,6 +6,7 @@ Network: Sancho Testnet
 Authors:
     - Mike Hornan <mike.hornan@able-pool.io>
     - Alexandre Lafleur <alexandre.lafleur@able-pool.io>
+    - Adam Dean <Add mail or link here>
 Discussions:
     - <https://discord.com/channels/826816523368005654/1128361520514994178>
     - <https://discord.com/channels/826816523368005654/915340581411106916>
