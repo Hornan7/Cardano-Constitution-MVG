@@ -36,8 +36,8 @@ The Constitutional Committee of the Cardano blockchain shall be composed of more
 world, chosen by the  ("New constitutional committee") governance action thereof, for the duration of `termLimits` protocol parameter;
 and each Committe members shall have one vote.
 
-Immediately after they shall be assembled at least once in every Year in Consequence of the ("New constitutional committee") governance action enactment, and they shall
-treat each others as equally as may be during every meetings. Such Meeting location shall be determined unanimously by its members. No Constitutional Committee members
+Immediately after the enactment of ("New constitutional committee") governance action, they shall be assembled at least once in every Year in Consequence of the ("New constitutional committee") governance action enactment, and they shall
+treat each others as equally as may be during every meetings. Such Meeting time and location, including virtual meetings, must be determined unanimously by all Constitutional Committee members. No Constitutional Committee members
 shall have their cold keys in their possession when attending to these meetings.
 
 > Immediately after... what? Is this a requirement for an in-person meeting with unanimous attendance? How are travel and hosting arrangements paid for? - Adam
