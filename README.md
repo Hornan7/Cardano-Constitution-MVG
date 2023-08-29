@@ -21,8 +21,7 @@ License: CC-BY-4.0
 provide for the common defence of the Network, and promote its proper Functioning for ourselves and our Posterity, do ordain and establish
 this Constitution for the Cardano Blockchain of the World.
 
-> Appreciate the attempt at poetry here but not sure that harkening to the US Consitution is the right play to open this up. - Adam
-
+> **TODO** Redact an original and inspiring Preamble.
 ## Article I: The Governance Branch
 
 ### Section 1: Governance Bodies
