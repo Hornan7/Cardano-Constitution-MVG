@@ -6,6 +6,7 @@ Network: Sancho Testnet
 Authors:
     - Mike Hornan <mike.hornan@able-pool.io>
     - Alexandre Lafleur <alexandre.lafleur@able-pool.io>
+    - Adam Dean <Add mail or link here>
 Discussions:
     - <https://discord.com/channels/826816523368005654/1128361520514994178>
     - <https://discord.com/channels/826816523368005654/915340581411106916>
@@ -20,6 +21,7 @@ License: CC-BY-4.0
 provide for the common defence of the Network, and promote its proper Functioning for ourselves and our Posterity, do ordain and establish
 this Constitution for the Cardano Blockchain of the World.
 
+> **TODO** Redact an original and inspiring Preamble.
 ## Article I: The Governance Branch
 
 ### Section 1: Governance Bodies
@@ -33,9 +35,10 @@ The Constitutional Committee of the Cardano blockchain shall be composed of more
 world, chosen by the  ("New constitutional committee") governance action thereof, for the duration of `termLimits` protocol parameter;
 and each Committe members shall have one vote.
 
-Immediately after they shall be assembled at least once in every Year in Consequence of the ("New constitutional committee") governance action enactment, and they shall
-treat each others as equally as may be during every meetings. Such Meeting location shall be determined unanimously by its members. No Constitutional Committee members
+Immediately after the enactment of ("New constitutional committee") governance action, they shall be assembled at least once in every Year in Consequence of the ("New constitutional committee") governance action enactment, and they shall
+treat each others as equally as may be during every meetings. Such Meeting time and location, including virtual meetings, must be determined unanimously by all Constitutional Committee members. No Constitutional Committee members
 shall have their cold keys in their possession when attending to these meetings.
+
 
 No Person shall be a Constitutional Committee member who shall not have attained the age of majority according to the law and standard of their
 respective state and country, and been one year an ADA Holder of the Cardano Blockchain, and who shall not, when elected, hold a position of political
@@ -43,6 +46,9 @@ power in any country of the world.
 
 No Constitutional Committee member shall be anything other than a natural person.
 
+> ( **TODO** Find a legalistic way to avoid DOXing while being able to prove a reasonable level of trust + legal age + no political involvement - Adam)
+>
+> ( **TODO** add precision on the method used to track the seniority of the ada Holders who applies as CC, Define ownership of the wallet, what address can be used, how will it be tracked, Be clear, don't omit anything  - Adam)
 No Committee member shall, under any circumstances, share their cold keys with anyone, and no person shall vote on their behalf
 at any time while serving as a member of the Constitutional Committee.
 
@@ -75,8 +81,6 @@ until the first epoch after their enactment to give the new constitutional commi
 proposals with respect to a new constitution, and ensures that the in principle arbitrary semantic changes caused by enacting a hard-fork do not have
 unintended consequences in combination with other actions.
 
-The Constitutional Committee shall assemble at least once in every Year, and such Meeting location shall be determined unanimously by its members.
-No Constitutional Committee members shall have their cold keys in their possession when attending to these meetings.
 
 ### Section 6: Power and Duty of the Governance Bodies
 
@@ -103,6 +107,8 @@ of the Cardano blockchain.
 (**TODO** Political power and don't forget to include conflict of interest)
 
 ## Article II: The Protocol Branch
+
+> ( **TODO** Change the structure of the branches by CC, Dreps, SPOs (a name which would assemble the group of minimum acceptable protocol parameters) - Adam
 
 ### Section 1: The Cardano Protocol
 
@@ -139,6 +145,8 @@ or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork
 enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
 without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
 
+> Describes the proper process and procedure for proposing, discussing, and ultimately ratifying new amendments.  It could be that the specified articles that are "protected" by this current language actually need to be changed by a future amendment. - Adam 
+
 ## Article V: Blockchain State, Supremacy, Affirmation, Religious Tests
 
 All Node Versions and Protocol Parameter's State, before the Adoption of this Constitution, shall be as valid against the Cardano Blockchain under this 
@@ -168,4 +176,9 @@ but in a manner that will be prescribed by the law of the owner's country which 
 > 3. A **Juridical Person** refers to a human legal person that is not a single natural person but an organization recognized by law as a fictitious person such as a corporation,
 >    government agency, non-governmental organisation, or international organization (such as the United Nations).
 > 4. The **Governance Mechanism** refers to the CIP-1694 governance rule including governance bodies, governance actions, their ratifications and enactments.
+
+> **Point of Order**
+>
+> I think that we should review the language used within this document with a mind to following [RFC2119](https://datatracker.ietf.org/doc/html/rfc2119) , and a proper [Legislative language](https://www.justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/toc-tdm.html)
+> to ensure that the language is clear and unambiguous in terms of things that **must**, **must not**, **should**, or **should not** be taken.
 
