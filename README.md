@@ -124,26 +124,30 @@ Full Faith and Credit shall be given in the Cardano Community which shall consis
 4. No one may, in a legal act, stipulate a clause involving discrimination. Such a clause shall have no effect.
 5. Everyone has the right to information, to the extent provided by the Constitution and the Cardano Blockchain must remain public and open-source.
 6. Community rights and freedoms are exercised with respect for democratic values.
+7. The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
 
-## Article V: The Protocol Branch
+## Article V
 
 ### Section 1: The Cardano Protocol
 
 The Cardano Protocol Control shall be vested in the governance protocol (**TODO** trustless description)
 
-### Section 2: One ADA one Vote
+### Section 2: One ADA, one vote
 
-(**TODO** Description and justification of this Community rule)
+(**TODO** Description and justification of One ADA one vote)
 
 ### Section 3: Minimum Acceptable Protocol Parameters
 
 (**TODO** Full description of minimum acceptable modifications of every available critical parameters)
 
-## Article VI (Power and Duty of governance Bodies **Find another name**)
+## Article VI
 
 The Cardano Governance Bodies shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or
 prohibiting the free exercise thereof;  or abridging the freedom of speech, or of the press; or the right of the community to submit governance
 actions and to petition the Governance Bodies for a redress of grievances.
+
+No person shall, at any time, through the Governance protocol or a hard-fork, take control or block, without the consent of the owner, the assets thereof,
+but in a manner that will be prescribed by the law of the owner's country which shall not modify the Cardano blockchain protocol in any way.
 
 ## Article VII: Amendment Process
 
@@ -153,7 +157,7 @@ or as the one or the other Mode of Ratification may be proposed by a ("Hard-Fork
 enactment of this constitution shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no Delegated Representative, 
 without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
 
-> (**TODO**Describes the proper process and procedure for proposing, discussing, and ultimately ratifying new amendments.  It could be that the specified articles that are "protected" by this current language actually need to be changed by a future amendment. - Adam) 
+> (**TODO** Describes the proper process and procedure for proposing, discussing, and ultimately ratifying new amendments.  It could be that the specified articles that are "protected" by this current language actually need to be changed by a future amendment. - Adam) 
 
 ## Article VIII: Blockchain State, Supremacy, Affirmation, Religious Tests
 
@@ -170,15 +174,6 @@ required as a Qualification to any of the Governance Roles or Community Trust un
 ## Article IX
 
 The Ratification of ("Update to the Constitution") governance action, shall be sufficient for the Establishment of this Constitution between the Governance Bodies so ratifying the Same.
-
-## TO ADD Later 1
-
-The enumeration in the Constitution of certain rights should not be interpreted as denying or denigrating other rights retained by the people of the community.
-
-## TO ADD later 2
-
-No person shall, at any time, through the Governance protocol or a hard-fork, take control or block, without the consent of the owner, the assets thereof,
-but in a manner that will be prescribed by the law of the owner's country which shall not modify the Cardano blockchain protocol in any way.
 
 > **Note**
 >
