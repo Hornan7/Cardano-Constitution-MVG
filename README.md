@@ -53,15 +53,6 @@ at any time while serving as a member of the Constitutional Committee. - Adam)
 The Constitutional Committee shall only vote on the constitutionality of governance actions and are collectively responsible for 
 ensuring that the Constitution is respected. 
 
-### Section 4: Elections
-
-The Times, and Manner of holding Elections for the Constitutional Committee, shall be prescribed on-chain by the ("New constitutional committee") governance action,
-its metadata and the Governance group's protocol parameters values. 
-
-A successful election of a new constitutional committee, a constitutional change or a hard-fork shall delay ratification of all other governance actions
-until the first epoch after their enactment to give the new constitutional committee enough time to vote on current proposals, re-evaluate existing
-proposals with respect to a new constitution, and ensures that the in principle arbitrary semantic changes caused by enacting a hard-fork do not have
-unintended consequences in combination with other actions.
 
 ### Section 5: Disabilities of Constitutional Committee Members
 
@@ -77,7 +68,7 @@ in the Governance mechanisms
 ### Section 2: Requirements
 
 The Delegated Representatives shall be chosen at any time by the people of the Cardano Community, and shall be registered as 
-such on the Cardano Blockchain. They represent themselves and those who have delegated their stake to them.
+such on the Cardano Blockchain. They represent themselves and those who have delegated their stake to them. (i would put this instead - Mauro)
 
 The Delegated Representatives can be of any age without restrictions and shall be identified by a credential that can be either a verification key or a native/plutus script. 
 
@@ -100,15 +91,6 @@ shall be registered as such on the Cardano Blockchain and shall not be required 
 
 Any natural person, juridical entity, artificial intelligence or script can be registered as a Stake Pool Operator and they may vote on governance actions with every stake pool they own.
 
-### Section 2: Power and Duty of the Stake Pool Operators
-
-The Stake Pool Operators shall have the power to vote on at least the ("Motion of no-confidence", "New constitutional committee",
-"Hard-Fork Initiation" and "Information") Governance actions under this Constitution and their power to vote thereon shall not be
-reduced by any hardforks after the enactment thereof. 
-
-The Stake Pool Operators shall have the power to choose which version of the node they will use regardless of the outcome of the
-"Hard-Fork Initiation" Governance action's vote. However, they shall make their choice based on what is best for the proper functioning
-of the Cardano blockchain.
 
 ## Article IV
 
@@ -158,6 +140,8 @@ enactment of this constitution shall in any Manner affect the first and fourth C
 without its Consent, shall be deprived of its equal Suffrage in the Governance Mechanism. (**TODO** Modify when done with Article 1)
 
 > (**TODO** Describes the proper process and procedure for proposing, discussing, and ultimately ratifying new amendments.  It could be that the specified articles that are "protected" by this current language actually need to be changed by a future amendment. - Adam) 
+
+everyone is allowed to do whatever is allowed
 
 ## Article VIII: Blockchain State, Supremacy, Affirmation, Religious Tests
 
